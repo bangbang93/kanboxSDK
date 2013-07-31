@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanboxSDK", "kanboxSDK\kanboxSDK.csproj", "{FEA16B56-E302-4462-8029-83EED71D9256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanboxSDKDemo", "kanboxSdkDemo\kanboxSDKDemo.csproj", "{D6FABCBA-EE22-4FBC-90E2-B22EBDF47D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA16B56-E302-4462-8029-83EED71D9256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA16B56-E302-4462-8029-83EED71D9256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA16B56-E302-4462-8029-83EED71D9256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA16B56-E302-4462-8029-83EED71D9256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FABCBA-EE22-4FBC-90E2-B22EBDF47D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FABCBA-EE22-4FBC-90E2-B22EBDF47D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FABCBA-EE22-4FBC-90E2-B22EBDF47D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FABCBA-EE22-4FBC-90E2-B22EBDF47D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
